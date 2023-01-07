@@ -7,7 +7,8 @@
 
 * Props and custom events should be the default communication mechanism. 
 
-* Provide use in some pass through case, cause it have to dig into all the componetns to understand where those values here in App.vue 
+* Provide use in some pass through case.
+* It's hard to read the code, cause it have to dig into all the componetns to understand where those values here in App.vue 
 
 
 App.vue
